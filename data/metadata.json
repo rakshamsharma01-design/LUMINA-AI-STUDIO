@@ -1,0 +1,306 @@
+{
+  "images": {
+    "img_4ef9a0da07": {
+      "id": "img_4ef9a0da07",
+      "title": "Sunlit Outdoor Creative Portrait",
+      "original_filename": "outdoor_portrait_creator.jpg",
+      "created_at": "2026-10-20T16:20:55Z",
+      "updated_at": "2026-10-20T16:20:55Z",
+      "width": 1024,
+      "height": 1024,
+      "caption": "A smiling young creative woman outdoors in an autumn park with warm golden hour backlighting, soft bokeh background greenery, and natural atmospheric depth.",
+      "tags": [
+        "portrait",
+        "person",
+        "woman",
+        "smiling",
+        "golden hour",
+        "park",
+        "outdoor",
+        "bokeh",
+        "autumn",
+        "lifestyle"
+      ],
+      "objects": [
+        "young woman",
+        "blazer",
+        "leather backpack",
+        "notebook",
+        "foliage",
+        "fountain"
+      ],
+      "dominant_colors": [
+        "Terracotta Orange",
+        "Olive Green",
+        "Warm Sunlight",
+        "Deep Teal"
+      ],
+      "embedding": null,
+      "current_version_id": "img_4ef9a0da07_v1",
+      "versions": [
+        {
+          "version_id": "img_4ef9a0da07_v0",
+          "version_number": 0,
+          "parent_version_id": null,
+          "image_path": "data\\images\\originals\\img_4ef9a0da07_v0.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_4ef9a0da07_v0_thumb.jpg",
+          "timestamp": "2026-10-20T16:20:55Z",
+          "edit_type": "original",
+          "prompt": "Original Image",
+          "model_used": "camera/upload",
+          "notes": "Original image 1024x1024"
+        },
+        {
+          "version_id": "img_4ef9a0da07_v1",
+          "version_number": 1,
+          "parent_version_id": "img_4ef9a0da07_v0",
+          "image_path": "data\\images\\versions\\img_4ef9a0da07_v1.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_4ef9a0da07_v1_thumb.jpg",
+          "timestamp": "2026-10-20T16:20:55Z",
+          "edit_type": "golden_hour",
+          "prompt": "Enhance with warm sunset golden hour lighting",
+          "model_used": "Smart Vision Engine (golden_hour)",
+          "notes": "Sample visual transformation (golden_hour)"
+        }
+      ]
+    },
+    "img_a4415bde06": {
+      "id": "img_a4415bde06",
+      "title": "Sunlit Tropical Beach Coast",
+      "original_filename": "tropical_beach_sunset.jpg",
+      "created_at": "2026-10-20T16:20:55Z",
+      "updated_at": "2026-10-20T16:20:56Z",
+      "width": 1024,
+      "height": 1024,
+      "caption": "A breathtaking tropical beach bathed in radiant golden sunset light, with turquoise waves kissing fine white sand and graceful coconut palms leaning toward the ocean horizon.",
+      "tags": [
+        "beach",
+        "tropical",
+        "ocean",
+        "sunset",
+        "palm trees",
+        "sand",
+        "nature",
+        "vacation",
+        "golden hour",
+        "waves"
+      ],
+      "objects": [
+        "coconut palm trees",
+        "ocean waves",
+        "sandy shoreline",
+        "sunset sky",
+        "distant hills"
+      ],
+      "dominant_colors": [
+        "Turquoise",
+        "Golden Orange",
+        "Warm Sand",
+        "Azure Blue"
+      ],
+      "embedding": null,
+      "current_version_id": "img_a4415bde06_v1",
+      "versions": [
+        {
+          "version_id": "img_a4415bde06_v0",
+          "version_number": 0,
+          "parent_version_id": null,
+          "image_path": "data\\images\\originals\\img_a4415bde06_v0.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_a4415bde06_v0_thumb.jpg",
+          "timestamp": "2026-10-20T16:20:55Z",
+          "edit_type": "original",
+          "prompt": "Original Image",
+          "model_used": "camera/upload",
+          "notes": "Original image 1024x1024"
+        },
+        {
+          "version_id": "img_a4415bde06_v1",
+          "version_number": 1,
+          "parent_version_id": "img_a4415bde06_v0",
+          "image_path": "data\\images\\versions\\img_a4415bde06_v1.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_a4415bde06_v1_thumb.jpg",
+          "timestamp": "2026-10-20T16:20:56Z",
+          "edit_type": "preset",
+          "prompt": "Remaster micro-contrast and vivid ocean tones",
+          "model_used": "Smart Vision Engine (enhance_clarity)",
+          "notes": "Sample visual transformation (enhance_clarity)"
+        }
+      ]
+    },
+    "img_d95ff4ce3d": {
+      "id": "img_d95ff4ce3d",
+      "title": "Artisanal Latte & Workspace",
+      "original_filename": "artisanal_coffee_workspace.jpg",
+      "created_at": "2026-10-20T16:20:56Z",
+      "updated_at": "2026-10-20T16:20:56Z",
+      "width": 1024,
+      "height": 1024,
+      "caption": "An aesthetic top-down desktop scene featuring an artisanal latte with delicate swan latte art in a ceramic cup, next to an open notebook with handwritten reflections, tortoiseshell glasses, and a succulent.",
+      "tags": [
+        "coffee",
+        "latte art",
+        "workspace",
+        "minimalist",
+        "notebook",
+        "glasses",
+        "indoor",
+        "succulent",
+        "aesthetic",
+        "cozy"
+      ],
+      "objects": [
+        "coffee cup",
+        "saucer",
+        "open notebook",
+        "eyeglass frames",
+        "potted succulent",
+        "wooden tabletop"
+      ],
+      "dominant_colors": [
+        "Warm Oak Brown",
+        "Cream Latte",
+        "Sage Green",
+        "Tortoiseshell"
+      ],
+      "embedding": null,
+      "current_version_id": "img_d95ff4ce3d_v1",
+      "versions": [
+        {
+          "version_id": "img_d95ff4ce3d_v0",
+          "version_number": 0,
+          "parent_version_id": null,
+          "image_path": "data\\images\\originals\\img_d95ff4ce3d_v0.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_d95ff4ce3d_v0_thumb.jpg",
+          "timestamp": "2026-10-20T16:20:56Z",
+          "edit_type": "original",
+          "prompt": "Original Image",
+          "model_used": "camera/upload",
+          "notes": "Original image 1024x1024"
+        },
+        {
+          "version_id": "img_d95ff4ce3d_v1",
+          "version_number": 1,
+          "parent_version_id": "img_d95ff4ce3d_v0",
+          "image_path": "data\\images\\versions\\img_d95ff4ce3d_v1.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_d95ff4ce3d_v1_thumb.jpg",
+          "timestamp": "2026-10-20T16:20:56Z",
+          "edit_type": "preset",
+          "prompt": "Vintage 1970s analog 35mm film color grading",
+          "model_used": "Smart Vision Engine (vintage_film)",
+          "notes": "Sample visual transformation (vintage_film)"
+        }
+      ]
+    },
+    "img_4601c5045c": {
+      "id": "img_4601c5045c",
+      "title": "Playful Golden Retriever in Autumn",
+      "original_filename": "golden_retriever_park.jpg",
+      "created_at": "2026-10-20T16:20:56Z",
+      "updated_at": "2026-10-20T17:36:26Z",
+      "width": 1024,
+      "height": 1024,
+      "caption": "A cheerful golden retriever sitting alert on vibrant green lawn grass in a sun-dappled park, surrounded by golden and russet autumn foliage and gentle afternoon sunlight.",
+      "tags": [
+        "dog",
+        "golden retriever",
+        "pet",
+        "animal",
+        "park",
+        "autumn",
+        "grass",
+        "happy",
+        "sunlight",
+        "outdoor"
+      ],
+      "objects": [
+        "golden retriever dog",
+        "collar",
+        "green grass",
+        "autumn trees",
+        "park pathway"
+      ],
+      "dominant_colors": [
+        "Golden Fur",
+        "Emerald Grass",
+        "Amber Leaves",
+        "Sky Blue"
+      ],
+      "embedding": null,
+      "current_version_id": "img_4601c5045c_v5",
+      "versions": [
+        {
+          "version_id": "img_4601c5045c_v0",
+          "version_number": 0,
+          "parent_version_id": null,
+          "image_path": "data\\images\\originals\\img_4601c5045c_v0.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_4601c5045c_v0_thumb.jpg",
+          "timestamp": "2026-10-20T16:20:56Z",
+          "edit_type": "original",
+          "prompt": "Original Image",
+          "model_used": "camera/upload",
+          "notes": "Original image 1024x1024"
+        },
+        {
+          "version_id": "img_4601c5045c_v1",
+          "version_number": 1,
+          "parent_version_id": "img_4601c5045c_v0",
+          "image_path": "data\\images\\versions\\img_4601c5045c_v1.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_4601c5045c_v1_thumb.jpg",
+          "timestamp": "2026-10-20T16:20:58Z",
+          "edit_type": "preset",
+          "prompt": "Convert to delicate watercolor illustration",
+          "model_used": "Smart Vision Engine (watercolor_art)",
+          "notes": "Sample visual transformation (watercolor_art)"
+        },
+        {
+          "version_id": "img_4601c5045c_v2",
+          "version_number": 2,
+          "parent_version_id": "img_4601c5045c_v1",
+          "image_path": "data\\images\\versions\\img_4601c5045c_v2.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_4601c5045c_v2_thumb.jpg",
+          "timestamp": "2026-10-20T17:35:56Z",
+          "edit_type": "preset",
+          "prompt": "Cyberpunk Neon Glow",
+          "model_used": "Smart Engine (Cyberpunk Neon Glow)",
+          "notes": "Preset Cyberpunk Neon Glow: Reimagined as a striking neo-Tokyo cyberpunk scene. Dark moody atmosphere illumi"
+        },
+        {
+          "version_id": "img_4601c5045c_v3",
+          "version_number": 3,
+          "parent_version_id": "img_4601c5045c_v2",
+          "image_path": "data\\images\\versions\\img_4601c5045c_v3.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_4601c5045c_v3_thumb.jpg",
+          "timestamp": "2026-10-20T17:36:05Z",
+          "edit_type": "preset",
+          "prompt": "Vintage 1970s Film",
+          "model_used": "Smart Engine (Vintage 1970s Film)",
+          "notes": "Preset Vintage 1970s Film: Authentic vintage 1970s analog 35mm film photography. Gentle organic film grain,"
+        },
+        {
+          "version_id": "img_4601c5045c_v4",
+          "version_number": 4,
+          "parent_version_id": "img_4601c5045c_v3",
+          "image_path": "data\\images\\versions\\img_4601c5045c_v4.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_4601c5045c_v4_thumb.jpg",
+          "timestamp": "2026-10-20T17:36:19Z",
+          "edit_type": "preset",
+          "prompt": "Dramatic Noir Black & White",
+          "model_used": "Smart Engine (Dramatic Noir Black & White)",
+          "notes": "Preset Dramatic Noir Black & White: Dramatic black and white fine-art photography. High chiaroscuro contrast, deep v"
+        },
+        {
+          "version_id": "img_4601c5045c_v5",
+          "version_number": 5,
+          "parent_version_id": "img_4601c5045c_v4",
+          "image_path": "data\\images\\versions\\img_4601c5045c_v5.jpg",
+          "thumbnail_path": "data\\images\\thumbnails\\img_4601c5045c_v5_thumb.jpg",
+          "timestamp": "2026-10-20T17:36:26Z",
+          "edit_type": "preset",
+          "prompt": "Ultra Clarity & Contrast",
+          "model_used": "Smart Engine (Ultra Clarity & Contrast)",
+          "notes": "Preset Ultra Clarity & Contrast: Masterwork ultra-high-definition photographic enhancement. Crisp micro-contrast,"
+        }
+      ]
+    }
+  }
+}
